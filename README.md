@@ -4,4 +4,4 @@ This is the repository created for course project of MATH545 Stochastic Calculus
 
 Details to be added later.
 
-**Disclaimer:** My strategies may not make profit!
+**Disclaimer:** My strategies may not profit!
